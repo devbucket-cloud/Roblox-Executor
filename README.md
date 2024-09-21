@@ -4,7 +4,7 @@
 
 ## 📥 Installation
 
-1. Download the installer '4.10.66.95_x64_en-us.exe' with the latest version.
+1. Download the installer `4.10.66.96_x64_en-us.exe` with the latest version.
 2. Run the installer and follow the on-screen instructions.
 3. After installation, launch the program via the desktop shortcut.
 
